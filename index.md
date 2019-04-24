@@ -1,4 +1,4 @@
 [Home Page](https://guraltp.github.io/)  
-[Bio](Bio)  
-[Topic](Topic)
+[Bio](bio)  
+[Topic](topic)
 
