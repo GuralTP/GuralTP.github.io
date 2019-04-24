@@ -1,14 +1,6 @@
-  
-# Life of Tyler Gural in Japan
+# Hello my name is Tyler Gural  
+> This is my first website I have ever made. I am making this website for my UMUC class IFSM 201. I am currently living in Iwakuni, Japan. I have been living in Japan for 5 years. Even though this is not where i am origionally from i do love this place. Japan is full of amazing culture and experinces. The very best thing about Japan is everyone here is honest. I met my wife out here also. We have 1 daughter right now named Scarlet, and a second one coming soon! Japan has really opened my eyes and made me relise that traveling is amazing. 
 
-### Where
->Iwakuni, Japan
-
-### How long 
-> 5 years
-
-### Work
-> Been working on MCAS Iwakuni for over 4 years.
 
 
 
