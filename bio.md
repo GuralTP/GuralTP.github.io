@@ -17,4 +17,4 @@
 
 
 [Home Page](index.md)  
-[Topic](https://github.com/GuralTP/GuralTP.github.io/blob/master/topic.md)
+[Iwakuni Bridge](topic)
