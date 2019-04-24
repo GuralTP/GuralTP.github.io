@@ -1,2 +1,3 @@
-[Home Page](https://guraltp.github.io/)
-[Iwakuni Bridge](https://www.bing.com/images/search?view=detailV2&id=54C2606056E82B0EEE6DD28FFCF4CF06DD4A5985&thid=OIP.4SlwMt51w75kIR6f2cFb0QHaE6&mediaurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F66%2F20100724_Iwakuni_5235.jpg%2F1200px-20100724_Iwakuni_5235.jpg&exph=797&expw=1200&q=iwakuni+japan+images&selectedindex=0&ajaxhist=0&vt=0&eim=1,2,6)
+[Home Page](https://guraltp.github.io/)  
+[Bio](https://github.com/GuralTP/GuralTP.github.io/blob/master/bio.md)
+
