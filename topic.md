@@ -1,3 +1,4 @@
 [Home Page](index.md)  
-[Bio](bio)
+[Bio](bio)  
+
 
