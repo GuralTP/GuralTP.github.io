@@ -3,8 +3,8 @@
 > Please choose one of the options below to explore my website, and Thank you for your visit.
 
 
-![Alt text]()
-)
+![Alt text](https://github.com/GuralTP/GuralTP.github.io/blob/master/JapanMapPicture.png)
+
 
 
 
