@@ -2,7 +2,12 @@
 
 ### Where
 >Iwakuni, Japan
->Hiroshima, Japan
->Osaka, Japan
+
+### How long 
+> 5 years
+
+### Work
+> Been working on MCAS Iwakuni for over 4 years.
+
 
 
