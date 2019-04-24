@@ -1,3 +1,4 @@
+  
 # Life of Tyler Gural in Japan
 
 ### Where
@@ -15,4 +16,5 @@
 
 
 
-[Home Page](https://guraltp.github.io/)
+[Home Page](https://guraltp.github.io/)  
+[Topic](https://github.com/GuralTP/GuralTP.github.io/blob/master/topic.md)
