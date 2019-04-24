@@ -5,6 +5,8 @@
 
 ![Alt text](https://github.com/GuralTP/GuralTP.github.io/blob/master/JapanMapPicture.png)
 
+> After you leave GO EXPLORE IWAKUNI, JAPAN!!!!!
+
 
 
 
